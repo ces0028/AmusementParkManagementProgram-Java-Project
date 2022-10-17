@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# User account file
+*.properties
+
+# Setting file
+*.prefs
