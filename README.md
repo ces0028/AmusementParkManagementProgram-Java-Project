@@ -3,6 +3,16 @@
 ## Outline
 Creating a amusement park management program using Java and MySQL
 
+## Purpose of Development
+In this program, Data are stored and managed by using Database.
+<br/>Please click URL below for the other version.
+| Version | URL |
+| --- | --- |
+| Arrays | https://github.com/ces0028/HotelManagementProgram-Java-Project |
+| Collention Framework (List) | https://github.com/ces0028/StudentGradeProgram-Java-Project |
+| Input / OutputStream | https://github.com/ces0028/BoardProgram-Java-Project |
+| Database (MySQL) | https://github.com/ces0028/AmusementParkManagementProgram-Java-Project |
+
 ## Development Environment
 | Category | Content |
 | --- | --- |
